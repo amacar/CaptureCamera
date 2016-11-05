@@ -6,6 +6,6 @@ This is program that I made for one of my customers. You can capture an image fr
 
 Usage (check executable folder)
 =
-You need dlls (enclosed) and setup.ini file in format
+You need dlls (enclosed) and setup.ini file in format:<br />
 path=C:\Users\Amadej\Desktop\capture.jpg // path to save, otherwise SaveFileDialog is shown<br />
 saveOnCancel=false //(optional parameter, default false)

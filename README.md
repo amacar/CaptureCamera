@@ -1,6 +1,7 @@
 Capture Camera
 =
 This is program that I made for one of my customers. You can capture an image from your computer camera and save it in desired folder.
+![UI](/screenshots/screenshot1.png?raw=true "UI")
 
 Usage (check executable folder)
 =
